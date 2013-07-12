@@ -1,4 +1,4 @@
-message_api
+.PROMO Inc. Marketing Opt-Ins API
 ===========
 
 Marketing Opt-Ins - simple REST API using Grape and ActiveRecord.
